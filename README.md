@@ -1,4 +1,4 @@
-# 每日早安推送给别人家的女朋友
+# 每日早安推送
 
 首先，按图搜索，测试号，进来之后微信扫码登录！
 ![cf7dbd4502df44765ed3506f55caea5](https://user-images.githubusercontent.com/9566402/183242272-134e37e7-718d-42dd-9ed7-fca2810e94e6.png)
